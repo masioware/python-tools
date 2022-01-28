@@ -1,2 +1,5 @@
 # python-tools
 Tools to solve small problems the easy way!
+
+### Serializer
+Implements iteration and conversion to json in class attributes
