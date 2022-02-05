@@ -9,3 +9,9 @@ Factory to Requests-Session with a TOR proxy configuration
 
 ### Mongo-Flask JSON Encoder
 A Flask JSON encoder for MongoDB documents
+
+### SQLAlchemy Connection String Builder
+Easily build string connections for sqlalchemy
+
+**Supported Databases:**
+- MySql
